@@ -4,6 +4,7 @@ The Game.py script is a simple implementation of the classic Snake game using th
 
 ## Features
 -Simple yet addictive gameplay.
+
 -Randomized food placement for dynamic gameplay.
 -Adjustable snake speed for varying difficulty levels.
 -Game over screen with options to play again or quit.
