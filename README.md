@@ -26,5 +26,4 @@ Run the script using Python: python Game.py.
 ## Credits
 Original Snake game concept by Nokia.
 Pygame library: https://www.pygame.org/
-## License
-This project is licensed under the MIT License.
+
